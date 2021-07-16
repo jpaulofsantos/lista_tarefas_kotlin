@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista Tarefas</string>
+    <string name="label_newTask">Criar Tarefa</string>
+    <string name="label_title">Título</string>
+    <string name="label_data">Data</string>
+    <string name="label_hora">Hora</string>
+    <string name="label_btn_cancelar">Cancelar</string>
+    <string name="label_btn_addTask">Criar Tarefa</string>
+</resources>
