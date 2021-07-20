@@ -6,4 +6,9 @@
     <string name="label_hora">Hora</string>
     <string name="label_btn_cancelar">Cancelar</string>
     <string name="label_btn_addTask">Criar Tarefa</string>
+    <string name="label_task">Tarefas</string>
+    <string name="label_description">Nova Tarefa</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Deletar</string>
+    <string name="message_no_tasks">Ops, você ainda possui \n nenhuma tarefa!</string>
 </resources>
